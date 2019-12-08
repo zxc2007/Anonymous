@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Anonymous
+# Anonymous Email
 # Coded by Senja
 # Github: github.com/stepbystepexe/Anonymous
 
