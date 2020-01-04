@@ -14,6 +14,11 @@ cd Anonymous
 ls
 python2 anonymous.py
 ```
+#### Screenshot:
+<p align="center">
+  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Screenshot.png" width="200"/>
+</a></p>
+
 #### Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
 #### LiberaPay:
