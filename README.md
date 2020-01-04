@@ -16,7 +16,7 @@ python2 anonymous.py
 ```
 #### Screenshot:
 <p align="center">
-  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Screenshot.png" width="200"/>
+  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Screenshot.png">
 </a></p>
 
 #### Paypal:
