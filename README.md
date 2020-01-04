@@ -1,10 +1,9 @@
-# Screenshot:
-![](./Screenshoot.png)
+<p align="center">
+  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Logo.png" width="200"/>
+</a></p>
+<h1 align="center">Anonymous</h1>
 # Usage:
 ```
-pkg update && pkg upgrade
-apt-get install git
-apt-get install python2
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
 ls
