@@ -3,11 +3,7 @@
 </a></p>
 <h1 align="center">Anonymous</h1>
 
-#### Feature:
-```
-anonymous.org
-```
-#### Usage:
+#### Cara Menginstall:
 ```
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
