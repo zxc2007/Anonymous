@@ -54,7 +54,7 @@ def write(o):
 
 def sound():
     print()
-    sp.call('mpv .nada',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
+    sp.call('mpv nada.o',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
     print()
     restart()
 
