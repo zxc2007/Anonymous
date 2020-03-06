@@ -9,7 +9,7 @@ Nama        : Anonymous
 Versi       : 3.0 (Update: 12 Juli 2020, 1:00 AM)
 Tanggal     : 01 Januari 2019
 Author      : Nedi Senja
-Tujuan      : Mengirim pesan kepad Anonymous.
+Tujuan      : Mengirim pesan kepad Anonymous
               secara anonim
 Terimakasih : Allah SWT.
               FR13NDS, & seluruh
