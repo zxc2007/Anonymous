@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Logo.png" width="200"/>
-</a></p>
-<h1 align="center">Anonymous</h1>
-
+# Anonymous:
+**```Anonymous```** adalah kelompok hacktivis internasional yang terdesentralisasi yang dibentuk pada tahun 2003. Para anggotanya dapat dibedakan di depan publik dengan mengenakan topeng **```Guy Fawkes```** atau yang biasa dikenal V for Vendetta.
+#### Screenshot:
+![](./Skrinsut.png)
 #### Informasi:
 ```
 Nama        : Anonymous
@@ -22,23 +21,20 @@ NB          : Manusia gax ada yang sempurna
 
 [ Gunakan tool ini dengan bijak ]
 ```
-
-#### Daftar Fitur:
+#### Fitur:
 + anonymous.org
-
 #### Cara Menginstall:
 ```
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
 ls
-python2 anonymous.py
+python3 anonymous.py
 ```
-#### Screenshot:
-<p align="center">
-  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Skrinsut.png">
-</a></p>
-
+#### Kontak:
++ Email d_q16x@outlook.co.id
++ WhatsApp https://tinyurl.com/wel4alo
 #### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
++ Onclick https://bit.ly/3dcEQcN
 #### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+>**Created by Nedi Senja**
