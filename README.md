@@ -2,7 +2,7 @@
 <h5 align="center">Anonymous adalah kelompok hacktivis internasional yang terdesentralisasi yang dibentuk pada tahun 2003. Para anggotanya dapat dibedakan di depan publik dengan mengenakan topeng Guy Fawkes atau yang biasa dikenal V for Vendetta.</h5>
 
 <p align="center">
-  <a href="www.python.org">
+  <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Language-Python3-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Anonymous/blob/master/LICENSE">
