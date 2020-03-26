@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Language-Python3-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Anonymous/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT%203-red.svg">
+    <img src="https://img.shields.io/badge/License-MIT-red.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Anonymous/releases">
     <img src="https://img.shields.io/badge/Release-1.1-success.svg">
