@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/License-MIT-red.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Anonymous/releases">
-    <img src="https://img.shields.io/badge/Release-1.1-success.svg">
+    <img src="https://img.shields.io/badge/Release-1.3-success.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Anonymous/pulls">
     <img src="https://img.shields.io/badge/Pull%20Request-0-important.svg">
@@ -46,7 +46,7 @@
 ### Informasi:
 ```text
 Nama        : Anonymous
-Versi       : 3.0 (Update: 31 Maret 2020, 1:00 AM)
+Versi       : 1.3 (Update: 31 Maret 2020, 1:00 AM)
 Tanggal     : 29 September 2019
 Author      : Nedi Senja
 Tujuan      : Mengirim pesan kepad Anonymous
