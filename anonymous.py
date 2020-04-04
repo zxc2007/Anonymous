@@ -12,8 +12,8 @@ from requests.exceptions import ConnectionError
 
 info = """
 Nama        : Anonymous
-Versi       : 3.0 (Update: 12 Juli 2020, 1:00 AM)
-Tanggal     : 01 Januari 2019
+Versi       : 1.3 (Update: 12 Maret 2020, 1:00 AM)
+Tanggal     : 29 September 2019
 Author      : Nedi Senja
 Tujuan      : Mengirim pesan kepad Anonymous
               secara anonim
