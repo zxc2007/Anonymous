@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Logo.png" width="300">
+  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Logo.png" width="100">
   <h5 align="center">Anonymous</h5>
 </a></p>
 
-p align="center">
+<p align="center">
       Simple script python to send email with anonymouse.org
 </p>
 
