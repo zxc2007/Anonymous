@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.8.0-blue.svg">
+    <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Anonymous/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-red.svg">
@@ -20,11 +20,11 @@
   <a href="https://github.com/stepbystepexe/Anonymous/issues">
     <img src="https://img.shields.io/badge/Issues-1-yellowgreen.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/security/advisories">
-    <img src="https://img.shields.io/badge/Security-Patch-ff69b4.svg">
+  <a href="https://github.com/stepbystepexe/Anonymous/security/policy">
+    <img src="https://img.shields.io/badge/Security-Policy-ff69b4.svg">
   </a>
   <a href="https://opensource.org">
-    <img src="https://img.shields.io/badge/Open%20Source-●-yellow.svg">
+    <img src="https://img.shields.io/badge/Open%20Source-●-lightgrey.svg">
   </a>
 </p>
 
