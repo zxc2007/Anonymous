@@ -1,10 +1,15 @@
+<p align="left">
+  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
+ </p>
 <p align="center">
-  <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Logo.png" width="100">
-  <h5 align="center">Anonymous</h5>
-</a></p>
+  <img src="Logo.png">  
+</p>
 
 <p align="center">
-      Simple script python to send email with anonymouse.org
+      Scrypt python to send emails with anonymouse.org 
+</p>
+<p align="center">
+     Functionaly tool 
 </p>
 
 
