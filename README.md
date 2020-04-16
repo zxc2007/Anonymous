@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/stepbystepexe/Anonymous/blob/master/logo.png" width="300">
-       <h5 align="center">Anonymous</h5>
 </a></p>
 
 
