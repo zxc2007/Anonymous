@@ -2,19 +2,12 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center">
-  <img src="Logo.png">  
+  <img src="Logo.png" width="100">
 </p>
 
 <p align="center">
-      Scrypt python to send emails with anonymouse.org 
+      Anonymous is a decentralized international hack activist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
 </p>
-<p align="center">
-     Functionaly tool 
-</p>
-
-
-<h5 align="center">Anonymous adalah kelompok hacktivis internasional yang terdesentralisasi yang dibentuk pada tahun 2003. Para anggotanya dapat dibedakan di depan publik dengan mengenakan topeng Guy Fawkes atau yang biasa dikenal V for Vendetta.</h5>
-
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
