@@ -1,5 +1,5 @@
 <p align="left">
-  <h5><a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
+  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center">
   <img src="Logo.png" width="100">
@@ -39,7 +39,6 @@
 </p>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
-</h5>
 </p>
 <p align="center">
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FAnonymous" alt="Twitter">
