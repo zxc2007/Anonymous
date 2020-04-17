@@ -37,12 +37,14 @@
 <p align="center">
   <img src="Skrinsut.png" width="300">
 </p>
+<h5>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 <p align="center">
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FAnonymous" alt="Twitter">
 </p>
+</h5>
 
 ### Informasi:
 ```text
