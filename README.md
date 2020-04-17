@@ -41,35 +41,35 @@
 <p align="center">
   Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
+</h5>
 <p align="center">
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FAnonymous" alt="Twitter">
 </p>
-</h5>
 
-### Informasi:
+### Information:
 ```text
-Nama        : Anonymous
-Versi       : 1.3 (Update: 31 Maret 2020, 1:00 AM)
-Tanggal     : 29 September 2019
+Name        : Anonymous
+Version     : 1.3 (Update: 31 March 2020, 1:00 AM)
+Date        : 29 September 2019
 Author      : Nedi Senja
-Tujuan      : Mengirim pesan kepad Anonymous
-              secara anonim
-Terimakasih : Allah SWT.
-              FR13NDS, & seluruh
-              manusia seplanet bumi
-NB          : Manusia gax ada yang sempurna
-              sama kaya tool ini.
-              Silahkan laporkan kritik atau saran
-              Ke - Email: d_q16x@outlook.co.id
-                 - WhatsApp: https://tinyurl.com/wel4alo
+Purpose     : Send a message to Anonymous
+              anonymously
+Thankyou    : Allah SWT.
+              FR13NDS, & all over
+              humans on planet earth
+NB          : Humans are not perfect
+              as rich as this tool.
+              Please report criticism or suggestions
+              To - Email: d_q16x@outlook.co.id
+                 - WhatsApp: tinyurl.com/wel4alo
 
-[ Gunakan tool ini dengan bijak ]
+[ Use this tool wisely. Thanks ]
 ```
 
-### Fitur:
+### Features:
 + anonymouse.org
 
-### Installisasi:
+### Installation:
 ```text
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
@@ -77,11 +77,11 @@ ls
 chmod +x
 ./anonymous.py
 ```
-### Kontak:
+### Contact:
 
 <h5> <a href="http://d_q16x@outlook.co.id">Email: d_q16x@outlook.co.id</a>
 </h5>
-<h5> <a href="https://tinyurl.com/wel4alo">WhatsApp: https://tinyurl.com/wel4alo</a>
+<h5> <a href="https://tinyurl.com/wel4alo">WhatsApp: tinyurl.com/wel4alo</a>
 </h5>
 
 ### LiberaPay:
