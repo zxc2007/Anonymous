@@ -1,3 +1,4 @@
+<h6>
 <p align="left">
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
@@ -8,6 +9,7 @@
 <p align="center">
       is a decentralized international hacktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
 </p>
+</6>
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
@@ -35,7 +37,7 @@
   </a>
 </p>
 <p align="center">
-  Tampilan
+  <h5>Tampilan</h5>
 </p>
 <p align="center">
   <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Skrinsut.png" width="300">
