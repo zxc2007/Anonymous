@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-      Anonymous is a decentralized international hack activist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
+      is a decentralized international hack activist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
 </p>
 <p align="center">
   <a href="https://www.python.org">
@@ -37,8 +37,6 @@
 </p>
 <p align="center">
   Tampilan
-</p>
-<p align="center">
   <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Skrinsut.png" width="300">
 </a></p>
 
