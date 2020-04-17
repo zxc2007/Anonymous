@@ -8,8 +8,6 @@
 </p>
 <p align="center">
       is a decentralized international hac acktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
-</p></h5>
-<p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
   </a>
@@ -34,11 +32,10 @@
   <a href="https://opensource.org">
     <img src="https://img.shields.io/badge/Open%20Source-●-lightgrey.svg">
   </a>
-</p>
-<h4 align="center">Tampilan</h4>
-<p align="center">
+  Tampilan
   <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Skrinsut.png" width="300">
-</a></p>
+</a><
+/p>
 <h5>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
