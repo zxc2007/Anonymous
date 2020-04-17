@@ -3,7 +3,7 @@
  </p>
 <p align="center">
   <img src="Logo.png" width="100">
-  <h5>Anonymous</h5>
+  Anonymous
 </p>
 
 <p align="center">
@@ -35,8 +35,9 @@
     <img src="https://img.shields.io/badge/Open%20Source-●-lightgrey.svg">
   </a>
 </p>
-
-<h4 align="center">Tampilan</h4>
+<p align="center">
+  Tampilan
+</p>
 <p align="center">
   <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Skrinsut.png" width="300">
 </a></p>
