@@ -1,4 +1,3 @@
-<h5>
 <p align="left">
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
@@ -6,10 +5,9 @@
   <img src="Logo.png" width="100">
   Anonymous
 </p>
-<p align="center">
+<p h5 align="center">
       is a decentralized international hac acktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
-</p>
-</h5>
+</p></h5>
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
