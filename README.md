@@ -4,10 +4,7 @@
 <h5>
 <p align="center">
   <img src="Logo.png" width="100">
-  Anonymous
-</p>
-<p align="center">
-      is a decentralized international hac acktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
+  Anonymous is a decentralized international hac acktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
 </p>
 <p align="center">
   <a href="https://www.python.org">
