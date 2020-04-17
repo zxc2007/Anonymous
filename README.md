@@ -5,7 +5,6 @@
   <img src="Logo.png" width="100">
   Anonymous
 </p>
-
 <p align="center">
       is a decentralized international hack activist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
 </p>
@@ -37,15 +36,15 @@
 </p>
 <p align="center">
   Tampilan
+</p>
+<p align="center">
   <img src="https://github.com/stepbystepexe/Anonymous/blob/master/Skrinsut.png" width="300">
 </a></p>
-
 <h5>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </h5>
 </p>
-
 <p align="center">
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FAnonymous" alt="Twitter">
 </p>
