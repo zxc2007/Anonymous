@@ -6,7 +6,7 @@
   Anonymous
 </p>
 <p align="center">
-      is a decentralized international hack activist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
+      is a decentralized international hacktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta
 </p>
 <p align="center">
   <a href="https://www.python.org">
