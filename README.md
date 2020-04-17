@@ -32,7 +32,7 @@
   </a>
 </p>
 <p align="center">
-  Tampilan
+  Screenshot
 </p>
 <p align="center">
   <img src="Skrinsut.png" width="300">
