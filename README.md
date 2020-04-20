@@ -53,7 +53,7 @@ Version     : 1.3 (Update: 31 March 2020, 1:00 AM)
 Date        : 29 September 2019
 Author      : Nedi Senja
 Purpose     : Send a message to Anonymous
-              anonymously
+              anonymously.
 Thankyou    : Allah SWT.
               FR13NDS, & all over
               humans on planet earth
