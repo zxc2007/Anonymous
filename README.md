@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Security-Policy-ff69b4.svg">
   </a>
   <a href="https://opensource.org">
-    <img src="https://img.shields.io/badge/Open%20Source-●-lightgrey.svg">
+    <img src="https://img.shields.io/badge/Open%20Source-●-008080.svg">
   </a>
 </p>
 <p align="center">
