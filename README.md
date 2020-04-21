@@ -2,36 +2,16 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center">
-<sup>
   <img src="Logo.png" width="100">
 <a herf="https://anonymouse.org">
-  Anonymous is a decentralized international hac acktivist group formed in 2003.</sup><sub><b>Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta.</a>
-</sub></b></p>
+  Anonymous is a decentralized international hac acktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta.</a>
+</p>
 <p align="center">
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
-  </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-red.svg">
-  </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/releases">
-    <img src="https://img.shields.io/badge/Release-1.3-success.svg">
-  </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/pulls">
-    <img src="https://img.shields.io/badge/Pull%20Request-0-important.svg">
-  </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/projects">
-    <img src="https://img.shields.io/badge/Projects-None-blueviolet.svg">
-  </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/issues">
-    <img src="https://img.shields.io/badge/Issues-1-yellowgreen.svg">
-  </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/security/policy">
-    <img src="https://img.shields.io/badge/Security-Policy-ff69b4.svg">
-  </a>
-  <a href="https://opensource.org">
-    <img src="https://img.shields.io/badge/Open%20Source-●-008080.svg">
-  </a>
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://img.shields.io/badge/build-failing-cb2431.svg)](https://github.com/stepbystepexe/Quotes/pulls)
+[![Issues Welcome](https://img.shields.io/badge/issues%20open-welcome-brightgreen.svg)](https://github.com/stepbystepexe/Quotes/pulls)
+
 </p>
 <p align="center">
   Screenshot
