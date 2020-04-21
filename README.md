@@ -2,9 +2,11 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center">
+<sup>
   <img src="Logo.png" width="100">
 <a herf="https://anonymouse.org">
   Anonymous is a decentralized international hac acktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta.</a>
+</sup>
 </p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -12,7 +14,7 @@
 [![Issues Welcome](https://img.shields.io/badge/issues%20open-welcome-brightgreen.svg)](https://github.com/stepbystepexe/Quotes/pulls)
 
 <p align="center">
-  Screenshot
+  <sub><b>Screenshot</sub></b>
 </p>
 <p align="center">
 <b>
