@@ -36,8 +36,9 @@
   Screenshot
 </p>
 <p align="center">
+<b>
   <img src="Skrinsut.png" width="300">
-</p>
+</b></p>
 <h5>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
