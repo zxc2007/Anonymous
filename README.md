@@ -5,8 +5,8 @@
 <sup>
   <img src="Logo.png" width="100">
 <a herf="https://anonymouse.org">
-  Anonymous is a decentralized international hac acktivist group formed in 2003. Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta.</a>
-</sup></p>
+  Anonymous is a decentralized international hac acktivist group formed in 2003.</sup><sub><b>Its members can be distinguished in public by wearing a Guy Fawkes mask or commonly known as V for Vendetta.</a>
+</sub></b></p>
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.8-blue.svg">
