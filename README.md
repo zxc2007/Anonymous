@@ -29,7 +29,7 @@
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FStepbystepexe%2FAnonymous" alt="Twitter">
 </p>
 
-### Information:
+# Information:
 ```text
 Name        : Anonymous
 Version     : 1.3 (Update: 31 March 2020, 1:10 AM)
@@ -49,10 +49,10 @@ NB          : Humans are not perfect
 [ Use this tool wisely. Thanks ]
 ```
 
-### Forked:
+# Forked:
 Forked From Website [Anonymouse](https://anonymouse.org)
 
-### Installation:
+# Installation:
 How to install on termux via git
 ```text
 git clone https://github.com/stepbystepexe/Anonymous
@@ -62,7 +62,7 @@ chmod +x
 ./anonymous.py
 ```
 
-### Contact:
+# Contact:
 Important contact Email [`Outlook`](http://d_q16x@outlook.co.id)
 Join using WhatsApp [`Online`](https://tinyurl.com/wel4alo)
 
