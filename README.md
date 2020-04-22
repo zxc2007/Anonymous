@@ -62,14 +62,14 @@ chmod +x
 ./anonymous.py
 ```
 
-### License:
-Anonymous tool is an open source license [MIT](https://opensource.org/licenses/MIT) © Github 2020
-
 ### Contact:
 
-**Email** [`Outlook`](http://d_q16x@outlook.co.id)
+Important contact **Email** [`Outlook`](http://d_q16x@outlook.co.id)
 
-**WhatsApp** [`Online`](https://tinyurl.com/wel4alo)
+Join using **WhatsApp** [`Online`](https://tinyurl.com/wel4alo)
+
+# License:
+Anonymous tool is an open source license [MIT](https://opensource.org/licenses/MIT) © Github 2020
 
 ### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
