@@ -50,17 +50,20 @@ NB          : Humans are not perfect
 ```
 
 ### Forked:
-Forked From Website [Anonymouse](https://anonymouse.org)
+Forked From Website [Anonymouse](https://anonymouse.org) This tool is made from an anonymous website that has been provided by (anonymouse.org)
 
 ### Installation:
 How to install on termux via git.
-use step by step to install the anonymous tool in the way below. 
-then install the package first, which is the package that needs `python3.8` `mpv` `git` then run
+use step by step to install the anonymous tool in the way below. then install the package first, which is the package that needs [`python`](https://www.python.org) [`mpv`](https://github.com/Neo-Oli/Termux-Mpv) [`git`](https://github.com/termux/termux-packages) then run
 ```text
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
 ls
 chmod +x
+```
+for supporters of installing python pip with the command
+```text
+pip install -r requirement.txt
 ```
 the last step is to run the command
 ```text
