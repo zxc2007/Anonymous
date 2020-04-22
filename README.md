@@ -62,7 +62,7 @@ chmod +x
 ```
 
 ### License:
-<h5> Anonymous uses a license [MIT](https://opensource.org/licenses/MIT) </h5>
+Anonymous uses a license [MIT](https://opensource.org/licenses/MIT)
 
 ### Contact:
 
