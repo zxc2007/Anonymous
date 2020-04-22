@@ -71,7 +71,7 @@ the last step is to run the command
 ```
 
 ### Contact:
-Importants contacted Email [**Outlook**](http://d_q16x@outlook.co.id)
+Important contacted Email [**Outlook**](http://d_q16x@outlook.co.id)
 Lets join using my WhatsApp [**Online**](https://tinyurl.com/wel4alo)
 
 # License
