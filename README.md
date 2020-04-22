@@ -49,11 +49,11 @@ NB          : Humans are not perfect
 [ Use this tool wisely. Thanks ]
 ```
 
-## Forked:
-
+### Forked:
 Forked From Website [Anonymouse](https://anonymouse.org)
 
 ### Installation:
+How to install on termux via git
 ```text
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
@@ -63,9 +63,7 @@ chmod +x
 ```
 
 ### Contact:
-
 Important contact Email [`Outlook`](http://d_q16x@outlook.co.id)
-
 Join using WhatsApp [`Online`](https://tinyurl.com/wel4alo)
 
 # License
