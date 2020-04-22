@@ -51,7 +51,7 @@ NB          : Humans are not perfect
 
 ### Website:
 
--[ Forked From Website [Anonymouse](https://anonymouse.org)
++ Forked From Website [Anonymouse](https://anonymouse.org)
 
 ### Installation:
 ```text
@@ -63,11 +63,11 @@ chmod +x
 ```
 
 ### License:
-<h6>Anonymous tool is an open source license</h6> [MIT](https://opensource.org/licenses/MIT)
+Anonymous tool is an open source license [MIT](https://opensource.org/licenses/MIT) © Github 2020
 
 ### Contact:
-<h5 Email [Outlook](http://d_q16x@outlook.co.id) </h5>
-<h5 WhatsApp [Online](https://tinyurl.com/wel4alo) </h5>
+Email [Outlook](http://d_q16x@outlook.co.id)
+WhatsApp [Online](https://tinyurl.com/wel4alo)
 
 ### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
