@@ -49,8 +49,9 @@ NB          : Humans are not perfect
 [ Use this tool wisely. Thanks ]
 ```
 
-### Features:
-+ anonymouse.org
+### Website:
+
++ Forked From Website [Anonymouse](https://anonymouse.org)
 
 ### Installation:
 ```text
@@ -62,13 +63,11 @@ chmod +x
 ```
 
 ### License:
-Anonymous uses a license [MIT](https://opensource.org/licenses/MIT)
+<h6>Anonymous tool is an open source license</h6> [MIT](https://opensource.org/licenses/MIT)
 
 ### Contact:
-
-<h5> <a href="http://d_q16x@outlook.co.id">Email: d_q16x@outlook.co.id</a>
-</h5>
-<h5> <a href="https://tinyurl.com/wel4alo">WhatsApp: tinyurl.com/wel4alo</a>
+<h5>Email</h5> [Outlook](http://d_q16x@outlook.co.id)
+<h5>WhatsApp</h5> [Online](https://tinyurl.com/wel4alo)
 </h5>
 
 ### LiberaPay:
