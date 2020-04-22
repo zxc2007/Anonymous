@@ -53,12 +53,17 @@ NB          : Humans are not perfect
 Forked From Website [Anonymouse](https://anonymouse.org)
 
 ### Installation:
-How to install on termux via git
+How to install on termux via git.
+use step by step to install the anonymous tool in the way below. 
+then install the package first, which is the package that needs `python3.8` `mpv` `git` then run
 ```text
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
 ls
 chmod +x
+```
+the last step is to run the command
+```text
 ./anonymous.py
 ```
 
