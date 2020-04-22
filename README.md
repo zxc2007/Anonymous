@@ -52,7 +52,7 @@ NB          : Humans are not perfect
 ### Forked:
 Forked From Website [Anonymouse](https://anonymouse.org)
 
-### Installation:
+### Usage:
 How to install on termux via git
 ```text
 git clone https://github.com/stepbystepexe/Anonymous
