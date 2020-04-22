@@ -10,8 +10,8 @@
 </p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://img.shields.io/badge/build-failing-cb2431.svg)](https://github.com/stepbystepexe/Quotes/pulls)
-[![Issues Welcome](https://img.shields.io/badge/issues%20open-welcome-brightgreen.svg)](https://github.com/stepbystepexe/Quotes/issues)
+[![Build Status](https://img.shields.io/badge/build-failing-cb2431.svg)](https://github.com/stepbystepexe/Anonymous/pulls)
+[![Issues Welcome](https://img.shields.io/badge/issues%20open-welcome-brightgreen.svg)](https://github.com/stepbystepexe/Anonymous/issues)
 
 <p align="center">
   <sub><b>Screenshot</sub></b>
