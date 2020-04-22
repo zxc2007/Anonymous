@@ -54,14 +54,14 @@ Forked From Website [Anonymouse](https://anonymouse.org) This tool is made from 
 
 ### Installation:
 How to install on termux via git.
-use step by step to install the anonymous tool in the way below. then install the package first, which is the package that needs [`python`](https://www.python.org) [`mpv`](https://github.com/Neo-Oli/Termux-Mpv) [`git`](https://github.com/termux/termux-packages) then run
+follow or use step by step to install the anonymous tool in the way below. then install the package first, which is the package that needs [`python`](https://www.python.org) [`mpv`](https://github.com/Neo-Oli/Termux-Mpv) [`git`](https://github.com/termux/termux-packages) then run
 ```text
 git clone https://github.com/stepbystepexe/Anonymous
 cd Anonymous
 ls
 chmod +x
 ```
-for supporters of installing python pip with the command
+for supporters of installing python pip with the command this below
 ```text
 pip install -r requirement.txt
 ```
