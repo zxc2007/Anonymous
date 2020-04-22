@@ -11,7 +11,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://img.shields.io/badge/build-failing-cb2431.svg)](https://github.com/stepbystepexe/Quotes/pulls)
-[![Issues Welcome](https://img.shields.io/badge/issues%20open-welcome-brightgreen.svg)](https://github.com/stepbystepexe/Quotes/pulls)
+[![Issues Welcome](https://img.shields.io/badge/issues%20open-welcome-brightgreen.svg)](https://github.com/stepbystepexe/Quotes/issues)
 
 <p align="center">
   <sub><b>Screenshot</sub></b>
@@ -60,6 +60,10 @@ ls
 chmod +x
 ./anonymous.py
 ```
+
+### License:
+<h5> Anonymous uses a license [MIT](https://opensource.org/licenses/MIT) </h5>
+
 ### Contact:
 
 <h5> <a href="http://d_q16x@outlook.co.id">Email: d_q16x@outlook.co.id</a>
