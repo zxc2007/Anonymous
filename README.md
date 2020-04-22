@@ -71,8 +71,8 @@ the last step is to run the command
 ```
 
 ### Contact:
-Important contacted Email [**Outlook**](http://d_q16x@outlook.co.id)
-Lets join using my WhatsApp [**Online**](https://tinyurl.com/wel4alo)
+Important contact Email [**Outlook**](http://d_q16x@outlook.co.id)
+Join using my WhatsApp [**Online**](https://tinyurl.com/wel4alo)
 
 # License
 Anonymous tool is an open source license [`MIT`](https://opensource.org/licenses/MIT) © Github 2020
