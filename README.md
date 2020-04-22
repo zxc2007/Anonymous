@@ -49,7 +49,7 @@ NB          : Humans are not perfect
 [ Use this tool wisely. Thanks ]
 ```
 
-### Website:
+## Forked:
 
 Forked From Website [Anonymouse](https://anonymouse.org)
 
@@ -64,11 +64,11 @@ chmod +x
 
 ### Contact:
 
-Important contact **Email** [`Outlook`](http://d_q16x@outlook.co.id)
+Important contact Email [`Outlook`](http://d_q16x@outlook.co.id)
 
-Join using **WhatsApp** [`Online`](https://tinyurl.com/wel4alo)
+Join using WhatsApp [`Online`](https://tinyurl.com/wel4alo)
 
-# License:
+# License
 Anonymous tool is an open source license [MIT](https://opensource.org/licenses/MIT) © Github 2020
 
 ### LiberaPay:
