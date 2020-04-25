@@ -18,7 +18,7 @@
 </p>
 <p align="center">
 <b>
-  <img src="Skrinsut.png" width="300">
+  <img src="Screenshot.png" width="300">
 </b></p>
 <h5>
 <p align="center">
