@@ -12,8 +12,8 @@ from requests.exceptions import ConnectionError
 
 info = """
 Name        : Anonymous
-Version     : 1.3 (Update: 1 May 2020, 1:00 AM)
-Date        : 1 January 2019
+Version     : 1.3 (Update: 31 March 2020, 1:10 AM)
+Date        : 29 September 2019
 Author      : Nedi Senja
 Purpose     : Send a message to Anonymous
               anonymously.
