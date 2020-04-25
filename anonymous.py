@@ -1,32 +1,32 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Anonymous
-# Coded by Nedi Senja
+# Coded by stepbystepexe
 # Github: https://github.com/stepbystepexe/Anonymous
 
-import os, sys, time, random, requests, urllib3
+import os, sys, time, random, urllib, requests
 import subprocess as sp
 from time import sleep
 from threading import Thread
 from requests.exceptions import ConnectionError
 
 info = """
-Nama        : Anonymous
-Versi       : 1.3 (Update: 12 Maret 2020, 1:00 AM)
-Tanggal     : 29 September 2019
+Name        : Anonymous
+Version     : 1.3 (Update: 1 May 2020, 1:00 AM)
+Date        : 1 January 2019
 Author      : Nedi Senja
-Tujuan      : Mengirim pesan kepad Anonymous
-              secara anonim
-Terimakasih : Allah SWT.
-              FR13NDS, & seluruh
-              manusia seplanet bumi
-NB          : Manusia gax ada yang sempurna
-              sama kaya tool ini.
-              Silahkan laporkan kritik atau saran
-              Ke - Email: d_q16x@outlook.co.id
-                 - WhatsApp: https://tinyurl.com/wel4alo
+Purpose     : Send a message to Anonymous
+              anonymously.
+Thankyou    : Allah SWT.
+              FR13NDS, & all over
+              humans on planet earth
+NB          : Humans are not perfect
+              as rich as this tool.
+              Please report criticism or suggestions
+              To - Email: d_q16x@outlook.co.id
+                 - WhatsApp: tinyurl.com/wel4alo
 
-[ \033[4mGunakan tool ini dengan bijak \033[0m]\n """
+[ \033[4mUse this tool wisely. Thanks \033[0m] """
 
 example = """\033[0;44;77;1m[          Anonymous, My Github: @stepbystepexe          ]\033[0m"""
 
@@ -41,10 +41,17 @@ def restart():
     os.execl(python, python, * sys.argv)
     curdir = os.getcwd()
 
+def play():
+    animation = '|/-\\'
+    for i in range(30):
+        time.sleep(0.1)
+        sys.stdout.write('\r\033[0m[\033[0;32m●\033[0m] Processing (' + animation[(i % len(animation))]+')')
+        sys.stdout.flush()
+
 def loads():
     o = [' .   ',' ..  ',' ... ']
     for i in o:
-        print('\r\033[0m[\033[0;33m●\033[0m] Sedang mengirim'+i,end=''),;sys.stdout.flush();time.sleep(1)
+        print('\r\033[0m[\033[0;33m●\033[0m] Email sending'+i,end=''),;sys.stdout.flush();time.sleep(1)
 
 def write(o):
     for i in o + '\n':
@@ -54,11 +61,11 @@ def write(o):
 
 def sound():
     print()
-    sp.call('mpv nada.o',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
+    sp.call('mpv .nada',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
     print()
     restart()
 
-def choic():
+def choose():
     print('\n')
     for i in random.choice(txt):
         print(str(i.replace('\n','')),end=''),;sys.stdout.flush();time.sleep(0.1)
@@ -79,8 +86,8 @@ def motto():
         print(i.center(65))
     ttt = Thread(name='motto',target=sound)
     ttt.start()
-    while ttt.isAlive():
-            choic()
+    while ttt.is_alive():
+        choose()
 
 def anonim():
     os.system('clear')
@@ -90,15 +97,15 @@ def anonim():
     print(logo)
     print(example)
     print()
-    write("\033[0m[ \033[32mINFO \033[0m] \033[3mJangan pernah anda mengirim Email pada Komunitas")
-    write("         Ilegal segala resiko menjadi tanggung jawab Anda")
-    to = input('\n\n\033[0m[\033[101;77;1m Kepada \033[0m] ')
-    subject = input('\033[0m[\033[102;90;1m Subjek \033[0m] ')
-    message = input('\033[0m[\033[104;77;1m Pessan \033[0m] ')
+    write("\033[0m[ \033[32mINFO \033[0m] \033[3mNever send an email to an illegal community")
+    write("         that any risk is your responsibility")
+    to = input('\n\n\033[0m[\033[101;77;1m   To    \033[0m] ')
+    subject = input('\033[0m[\033[102;90;1m Subject \033[0m] ')
+    message = input('\033[0m[\033[104;77;1m Message \033[0m] ')
     print()
     loads()
     try:
-        user_agent = 'Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36'
+        user_agent = 'Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36'
         sess = requests.Session()
         email_req = sess.post('http://anonymouse.org/cgi-bin/anon-email.cgi', headers={
                 'Host': 'anonymouse.org',
@@ -119,11 +126,11 @@ def anonim():
         if 'The e-mail has been sent' in email_req.text:
             os.system('xdg-open https://github.com/stepbystepexe')
             print()
-            print("\033[0m[\033[1;96m+\033[0m] \033[1;77mEmail terkirim sukses !")
+            print("\033[0m[\033[1;96m+\033[0m] \033[1;77mSuccess send email !")
             print("\033[0m[\033[1;95m!\033[0m] \033[1;77mIn order to increase your privacy, the anonymous e-mail will be randomly delayed up to 12 hours")
             print()
     except requests.exceptions.ConnectionError:
-        print('\n\n\033[0m[\033[91;1m!\033[0m] \033[77;1mTidak ada koneksi\033[0m\n')
+        print('\n\n\033[0m[\033[91;1m!\033[0m] \033[77;1mNo connection \033[0m\n')
         sys.exit(1)
 
 os.system('clear')
@@ -133,24 +140,26 @@ print()
 print(logo)
 print(example)
 print()
-print("\033[0m[\033[96;2;1m1\033[0m] \033[1;77mKirim Email Anonim")
+print("\033[0m[\033[96;2;1m1\033[0m] \033[1;77mSend Email Anonymous")
 print("\033[0m[\033[96;2;1m2\033[0m] \033[1;77mMotto")
 print()
-print("\033[0m[\033[93;1m&\033[0m] LISENSI")
-print("\033[0m[\033[94;1m#\033[0m] Informasi")
-print("\033[0m[\033[92;1m*\033[0m] Perbarui")
-print("\033[0m[\033[91;1m-\033[0m] Keluar")
+print("\033[0m[\033[93;1m&\033[0m] LICENSE")
+print("\033[0m[\033[94;1m#\033[0m] Information")
+print("\033[0m[\033[92;1m*\033[0m] Update")
+print("\033[0m[\033[91;1m-\033[0m] Exit")
 print()
-option = input("\033[0m(\033[105;77;1m/\033[0m) \033[1;77mMasukan opsi: \033[0m")
-if option.strip() in '1 kirim'.split():
-    write("\n\033[0m[\033[32m●\033[0m] \033[77;1mSedang memproses ...\033[0m")
+option = input("\033[0m(\033[105;77;1m/\033[0m) \033[1;77mChoose an option: \033[0m")
+if option.strip() in '1 send'.split():
+    print()
+    play()
     sleep(1)
     anonim()
 elif option.strip() in '2 motto'.split():
-    write("\n\033[0m[\033[32m●\033[0m] \033[77;1mSedang memproses ...\033[0m")
+    print()
+    play()
     sleep(1)
     motto()
-elif option.strip() in '& 3 lisensi'.split():
+elif option.strip() in '& 3 license'.split():
     print()
     os.system('nano LICENSE')
     print()
@@ -162,20 +171,20 @@ elif option.strip() in '# 4 info'.split():
     print(info)
     sleep(1)
     print()
-    input('[ Tekan Enter ]')
+    input('[ Back ]')
     restart()
-elif option.strip() in '* 5 perbarui'.split():
+elif option.strip() in '* 5 update'.split():
     print()
     os.system('git pull origin master')
     print()
-    input('\033[0m[ \033[32mTekan Enter \033[0m]')
+    input('\033[0m[ \033[32mBack \033[0m]')
     restart()
-elif option.strip() in '- 0 keluar'.split():
-    print("\n\033[0m[\033[1;91m!\033[0m] \033[1;77mKeluar dari program!")
+elif option.strip() in '- 0 exit'.split():
+    print("\n\033[0m[\033[1;91m!\033[0m] \033[1;77mExit the program!")
     print()
     sys.exit(1)
 else:
-    print("\n\033[0m[=\033[1;41;77m Pilihan Salah \033[0m=]")
+    print("\n\033[0m[=\033[1;41;77m Invalid Option \033[0m=]")
     print()
     sleep(1)
     restart()
